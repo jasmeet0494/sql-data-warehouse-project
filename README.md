@@ -47,7 +47,7 @@ Dimension Tables:
 - Dim_Date
 
 <p align="center">
-  <img src="docs/data_model.png" width="800">
+  <img src="docs/data_model.PNG" width="800">
 </p>
 ---
 
