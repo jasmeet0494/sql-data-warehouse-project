@@ -4,6 +4,7 @@ Welcome to the **Data Warehouse and Analytics Project** repository
 This project demonstrates a comprehensive data warehousing and analytics solution built using SQL Server that integrates multiple data sources and enables analytical reporting through a star schema model. 
 
 ---
+
 ## 📖 Project Overview
 
 This project demonstrates the design and implementation of a modern SQL-based data warehouse.
@@ -17,9 +18,6 @@ Key Components of the project include -
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-<p align="center">
-  <img src="docs/DataModel.png" width="800">
-</p>
 ---
 
 ## 🏗️ Data Architecture
@@ -33,6 +31,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 <p align="center">
   <img src="docs/data_architecture.png" width="800">
 </p>
+
 ---
 
 ## 🏗️ Data Model
@@ -105,5 +104,5 @@ data-warehouse-project/
 - Star Schema Modelling
 - ETL Pipelines
 
-
+---
 
