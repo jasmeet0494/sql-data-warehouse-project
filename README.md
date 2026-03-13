@@ -49,15 +49,20 @@ Dimension Tables:
 <p align="center">
   <img src="docs/data_model.PNG" width="800">
 </p>
+
 ---
 
-## 🏗️ ETL Pipeline 
+## 🪈ETL Pipeline 
 The ETL pipeline performs the following steps:
 
 1. Extract raw data from 6 CSV files from 2 different sources
 2. Load data into staging tables in the bronze layer using Bulk Load.
 3. Transform and clean the data and load into the Silver layer.
 4. Populate fact and dimension tables in the Gold Layer
+
+<p align="center">
+  <img src="docs/data_flow.PNG" width="800">
+</p>
 
 ---
 
